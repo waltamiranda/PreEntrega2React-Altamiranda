@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nombre": "Dell PowerEdge R940",
+        "precio": "3,479",
+        "imagen": "https://cdn11.bigcommerce.com/s-581m7x0qag/images/stencil/1280x1280/products/1023/922/R940.8Bay__27508.1666124158.1280.1280__82389.1676393624.jpg?c=1",
+        "categoria": "servers",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "nombre": "Dell PowerEdge R740xd",
+        "precio": "2,863",
+        "imagen": "https://cdn11.bigcommerce.com/s-581m7x0qag/images/stencil/320w/products/1315/1249/dell_poweredge_r740xd_1x12_3-5_12xhdd_front_6__72666.1662470828.1280.1280__07609.1678203599.jpg?c=1",
+        "categoria": "servers",
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "nombre": "Dell PowerEdge R740",
+        "precio": "2,199",
+        "imagen": "https://cdn11.bigcommerce.com/s-581m7x0qag/images/stencil/320w/products/396/1220/R740.16B__65424.1678112204.jpg?c=1",
+        "categoria": "servers",
+        "stock": 5
+    },
+    {
+        "id": 4,
+        "nombre": "Dell PowerEdge R640",
+        "precio": "2,335",
+        "imagen": "https://cdn11.bigcommerce.com/s-581m7x0qag/images/stencil/320w/products/396/1220/R740.16B__65424.1678112204.jpg?c=1",
+        "categoria": "servers",
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "nombre": "Dell PowerEdge R540",
+        "precio": "1,799",
+        "imagen": "https://cdn11.bigcommerce.com/s-581m7x0qag/images/stencil/320w/products/340/381/new-dell-poweredge-r540-12x-3.5-bay-configure-to-order-cto-coa-2u-server-1-74075-p__06849.1646859501.jpg?c=1",
+        "categoria": "servers",
+        "stock": 5
+    },
+    {
+        "id": 6,
+        "nombre": "HPE Proliant DL560 G9",
+        "precio": "1,306",
+        "imagen": "https://cdn11.bigcommerce.com/s-581m7x0qag/images/stencil/320w/products/642/613/DL560.G9.8B__17473.1657568166.jpg?c=1",
+        "categoria": "servers",
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "nombre": "HPE Proliant DL380 G9",
+        "precio": "357",
+        "imagen": "https://cdn11.bigcommerce.com/s-581m7x0qag/images/stencil/320w/products/432/426/DL380.G9.8B.Front__70556.1648216650.jpg?c=1",
+        "categoria": "servers",
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "nombre": "HPE Proliant DL160 G9",
+        "precio": "261",
+        "imagen": "https://cdn11.bigcommerce.com/s-581m7x0qag/images/stencil/320w/products/1754/1707/DL160.G9.LFF__40197.1684432310.jpg?c=1",
+        "categoria": "servers",
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "nombre": "Lenovo Laptop FHD IPS",
+        "precio": "550",
+        "imagen": "https://m.media-amazon.com/images/I/51kxgT97EOL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "categoria": "notebooks",
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "nombre": "Mouse Razer DeathAdder Essential",
+        "precio": "25",
+        "imagen": "https://m.media-amazon.com/images/I/8189uwDnMkL._AC_SX679_.jpg",
+        "categoria": "perifericos",
+        "stock": 1
+    }
+]
